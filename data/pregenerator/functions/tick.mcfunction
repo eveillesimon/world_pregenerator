@@ -1,0 +1,1 @@
+execute as @e[tag=generator, limit=1] run function pregenerator:next_destination

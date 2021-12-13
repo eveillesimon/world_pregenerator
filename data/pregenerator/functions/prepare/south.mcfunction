@@ -1,0 +1,1 @@
+scoreboard players add nextZ Pregenerator 5
