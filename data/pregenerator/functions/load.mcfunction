@@ -13,3 +13,8 @@ execute unless score neMovement Pregenerator matches 0.. run scoreboard players 
 execute unless score swMovement Pregenerator matches 0.. run scoreboard players set swMovement Pregenerator 2
 execute unless score currentStep Pregenerator matches 0.. run scoreboard players set currentStep Pregenerator 0
 execute unless score currentDirection Pregenerator matches 0.. run scoreboard players set currentDirection Pregenerator 1
+execute unless score stepDistance Pregenerator matches 0..10 run scoreboard players set stepDistance Pregenerator 5
+
+execute unless score tpCount Pregenerator matches 0.. run scoreboard players set tpCount Pregenerator 0
+#bossbar management
+
